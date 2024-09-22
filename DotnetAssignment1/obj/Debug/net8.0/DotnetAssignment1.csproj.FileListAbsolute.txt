@@ -1,0 +1,14 @@
+/Users/seotaejun/Desktop/dotnetClass/DotnetAssignment1/DotnetAssignment1/bin/Debug/net8.0/DotnetAssignment1
+/Users/seotaejun/Desktop/dotnetClass/DotnetAssignment1/DotnetAssignment1/bin/Debug/net8.0/DotnetAssignment1.deps.json
+/Users/seotaejun/Desktop/dotnetClass/DotnetAssignment1/DotnetAssignment1/bin/Debug/net8.0/DotnetAssignment1.runtimeconfig.json
+/Users/seotaejun/Desktop/dotnetClass/DotnetAssignment1/DotnetAssignment1/bin/Debug/net8.0/DotnetAssignment1.dll
+/Users/seotaejun/Desktop/dotnetClass/DotnetAssignment1/DotnetAssignment1/bin/Debug/net8.0/DotnetAssignment1.pdb
+/Users/seotaejun/Desktop/dotnetClass/DotnetAssignment1/DotnetAssignment1/obj/Debug/net8.0/DotnetAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seotaejun/Desktop/dotnetClass/DotnetAssignment1/DotnetAssignment1/obj/Debug/net8.0/DotnetAssignment1.AssemblyInfoInputs.cache
+/Users/seotaejun/Desktop/dotnetClass/DotnetAssignment1/DotnetAssignment1/obj/Debug/net8.0/DotnetAssignment1.AssemblyInfo.cs
+/Users/seotaejun/Desktop/dotnetClass/DotnetAssignment1/DotnetAssignment1/obj/Debug/net8.0/DotnetAssignment1.csproj.CoreCompileInputs.cache
+/Users/seotaejun/Desktop/dotnetClass/DotnetAssignment1/DotnetAssignment1/obj/Debug/net8.0/DotnetAssignment1.dll
+/Users/seotaejun/Desktop/dotnetClass/DotnetAssignment1/DotnetAssignment1/obj/Debug/net8.0/refint/DotnetAssignment1.dll
+/Users/seotaejun/Desktop/dotnetClass/DotnetAssignment1/DotnetAssignment1/obj/Debug/net8.0/DotnetAssignment1.pdb
+/Users/seotaejun/Desktop/dotnetClass/DotnetAssignment1/DotnetAssignment1/obj/Debug/net8.0/DotnetAssignment1.genruntimeconfig.cache
+/Users/seotaejun/Desktop/dotnetClass/DotnetAssignment1/DotnetAssignment1/obj/Debug/net8.0/ref/DotnetAssignment1.dll

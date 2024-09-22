@@ -1,0 +1,12 @@
+PatientID/PatientName/DoctorID/DoctorName/Description
+patient123/David/doctor123/Jack/cold symptoms
+patient123/David/doctor123/Jack/regular check up with doc
+patient234/Kevin/doctor234/Jason/cold symptoms
+patient123/David/doctor123/Jack/flu
+patient234/Kevin/doctor234/Jason/flu
+patient234/Kevin/doctor234/Jason/covid
+patient123/David/doctor123/Jack/heavy flu
+patient123/David/doctor123/Jack/cold
+patient333/Micheal/doctor123/Jack/flu
+patient777/Andrew/doctor89/elon/flu
+patient777/Andrew/doctor89/elon/cold

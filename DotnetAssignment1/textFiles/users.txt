@@ -1,0 +1,11 @@
+ID/Password/Role/Full Name/Address/Email/Phone
+patient123/pass123/Patient/David/Strathfield, NSW/david@gmail.com/0460123456
+patient234/pass123/Patient/Kevin/Rhodes, NSW/david@gmail.com/0430123456
+doctor123/pass123/Doctor/Jack/Town Hall, NSW/jack@gmail.com/0420123456
+doctor234/pass123/Doctor/Jason/Circular Quay, NSW/jason@gmail.com/0420123456
+admin123/pass123/Administrator
+doctor567/pass123/Doctor/jayden/Rhodes, NSW/jayden@gmail.com/0480123456
+doctor89/pass123/Doctor/elon/Circular Quay, NSW/elon@gmail.com/0452666666
+patient333/pass123/Patient/Micheal/Epping, NSW/micheal@gmail.com/0450555555
+patient777/pass123/Patient/Andrew/Liverpool, NSW/andrew@gmail.com/0450555666
+doctor888/pass123/Doctor/Taejun/Eastwood, NSW/taejun@gmail.com/0452678999
